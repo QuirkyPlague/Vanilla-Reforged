@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mesa_plateau_stone"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "vrd:mesa"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#55809E"
+      },
+      "minecraft:sky_color": {
+                "sky_color": "#ab6328"
+            },
+               "minecraft:atmosphere_identifier": {
+              "atmosphere_identifier": "vrd:mesa_atmosphere"
+            },
+            "minecraft:lighting_identifier": {
+              "lighting_identifier": "vrd:desert_lighting"
+            }
+    }
+  }
+}

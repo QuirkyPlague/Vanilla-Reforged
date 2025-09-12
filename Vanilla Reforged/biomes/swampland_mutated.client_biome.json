@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "swampland_mutated"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "vrd:swamp"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#4c6156"
+      },
+      "minecraft:sky_color": {
+        "sky_color": "#293b85"
+      },
+      "minecraft:water_identifier": {
+        "water_identifier": "vrd:swamp_water"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "vrd:swamp_lighting"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "vrd:swamp_atmosphere"
+      }
+    }
+  }
+}

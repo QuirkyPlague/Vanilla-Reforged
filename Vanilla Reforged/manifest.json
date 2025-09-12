@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "New spin on the classic 16x16 textures with high resolution bent normals to create depth never seen before",
+      "name": "Vanilla Reforged V1.2.0",
+      "uuid": "887aab3c-5273-4000-ba5e-887a4328aa6b",
+      "version": [1,2,0],
+      "min_engine_version": [1, 20, 0]
+     },
+    "modules": [
+      {
+        "description": "Created by QuirkyPlague",
+        "type": "resources",
+        "uuid": "4b5b9e9f-8f64-4aab-b476-d5c57e25874f",
+        "version": [1,2,0]
+      }
+    ], 
+    "capabilities" : [
+      "pbr"
+  ]
+  }
