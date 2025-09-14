@@ -5,23 +5,23 @@
             "identifier": "vrd:Water"
         },
         "particle_concentrations": {
-            "chlorophyll": 0.049999999552965164,
+            "chlorophyll": 0.019999999552965164,
             "suspended_sediment": 1.6,
             "cdom": 2.2
         },
         "waves": {
                "enabled": true,
             "frequency": 1.33799999833106995,
-            "octaves": 21,
+            "octaves": 16,
             "depth": 0.105,
-            "sampleWidth": 0.53,
-            "speed": 1.9830000281333923,
-            "pull": 0.4500000023841858,
-            "mix": 0.31,
-            "frequency_scaling": 1.21,
+            "sampleWidth": 0.13,
+            "speed": 2.4830000281333923,
+            "pull": 0.3500000023841858,
+            "mix": 0.36,
+            "frequency_scaling": 1.28,
             "speed_scaling": 1.21,
-            "direction_increment": 80,
-            "shape": 2.8929998874664307
+            "direction_increment": 345,
+            "shape": 1.5929998874664307
         },
         "caustics": {
             "enabled": true,
