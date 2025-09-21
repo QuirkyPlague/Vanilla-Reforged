@@ -10,18 +10,18 @@
             "cdom": 7.2
         },
         "waves": {
-            "enabled": true,
-            "frequency": 1.45,
-            "octaves": 14,
-            "depth": 0.045,
-            "sampleWidth": 0.312,
-            "speed": 1.007499999832362,
-            "shape": 2.135,
-            "pull": 0.11399999999999997,
-            "mix": 0.198,
-            "frequency_scaling": 1.168,
-            "speed_scaling": 1.12440000000000001,
-            "direction_increment": 130
+               "enabled": true,
+            "frequency": 1.4799999833106995,
+            "octaves": 21,
+            "depth": 0.036,
+            "sampleWidth": 0.01,
+            "speed": 1.4830000281333923,
+            "pull": 0.4100000023841858,
+            "mix": 0.31,
+            "frequency_scaling": 1.18,
+            "speed_scaling": 1.18,
+            "direction_increment": 345,
+            "shape": 2.3929998874664307
         },
         "caustics": {
             "enabled": true,

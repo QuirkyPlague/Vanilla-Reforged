@@ -13,12 +13,6 @@
       },
       "minecraft:sky_color": {
         "sky_color": "#293b85"
-      },
-      "minecraft:foliage_appearance": {
-        "color": "#af1c0d"
-      },
-      "minecraft:grass_appearance": {
-        "color": "#d26b27"
       }
     }
   }

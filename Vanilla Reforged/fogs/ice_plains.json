@@ -41,8 +41,8 @@
           "air": {
             "max_density": 0.0613,
             "uniform": false,
-            "max_density_height": 64,
-            "zero_density_height": 110
+            "max_density_height": 72,
+            "zero_density_height": 145
           },
           "water": {
             "max_density": 0.03,
@@ -56,7 +56,7 @@
         "media_coefficients": {
           "air": {
             "scattering": [0.0324, 0.0342, 0.0364],
-            "absorption": [0.116, 0.063, 0.005]
+            "absorption": [0.061, 0.043, 0.00]
           },
           "water": {
             "scattering":  [ 0.01, 0.052, 0.08 ],
@@ -65,7 +65,7 @@
           },
            "henyey_greenstein_g": {
         "air": {
-          "henyey_greenstein_g": 0.25
+          "henyey_greenstein_g": 0.61
         },
         "water":{
            "henyey_greenstein_g": 0.3

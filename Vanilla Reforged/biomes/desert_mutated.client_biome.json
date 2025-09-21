@@ -19,6 +19,9 @@
             },
             "minecraft:atmosphere_identifier": {
               "atmosphere_identifier": "vrd:desert_atmosphere"
+            },
+                        "minecraft:lighting_identifier": {
+              "lighting_identifier": "vrd:desert_lighting"
             }
     }
   }

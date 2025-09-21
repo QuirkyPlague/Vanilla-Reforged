@@ -8,9 +8,9 @@
       "midtones": {
         "midtonesMax": 60,
         "contrast": [
-          1.35,
-          1.35,
-          1.35
+          1.05,
+          1.05,
+          1.05
         ],
         "saturation": [
           0.65,
@@ -96,9 +96,6 @@
       "enabled": true,
       "type": "color_temperature",
       "temperature": 6500.0
-    },
-    "tone_mapping": {
-      "operator": "hable"
     }
   }
 }

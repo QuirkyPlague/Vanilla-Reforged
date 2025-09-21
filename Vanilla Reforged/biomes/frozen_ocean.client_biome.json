@@ -13,6 +13,9 @@
       },
       "minecraft:sky_color": {
         "sky_color": "#293b85"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "vrd:cold_grading"
       }
     }
   }

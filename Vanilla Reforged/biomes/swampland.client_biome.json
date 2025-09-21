@@ -20,6 +20,7 @@
             "minecraft:grass_appearance": {
               "color": {
                 "color_map": "swamp_grass"
+                
               }
             },
             "minecraft:foliage_appearance": {
