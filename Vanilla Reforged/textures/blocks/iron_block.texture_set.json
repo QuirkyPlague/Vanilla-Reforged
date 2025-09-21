@@ -3,6 +3,6 @@
   "minecraft:texture_set": {
     "color": "iron_block",
     "metalness_emissive_roughness": "iron_block_mer",
-      "heightmap": "iron_block_n"
+      "normal": "iron_block_n"
   }
 }
