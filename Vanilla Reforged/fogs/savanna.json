@@ -49,8 +49,9 @@
             "uniform": true
           },
           "weather": {
-            "max_density": 0.025,
-            "uniform": true
+            "max_density": 0.225,
+             "max_density_height": 71,
+            "zero_density_height": 134
           }
         },
         "media_coefficients": {

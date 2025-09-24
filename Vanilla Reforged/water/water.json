@@ -5,9 +5,9 @@
             "identifier": "vrd:Water"
         },
         "particle_concentrations": {
-            "chlorophyll": 0.019999999552965164,
-            "suspended_sediment": 1.6,
-            "cdom": 2.2
+            "chlorophyll": 0.06161,
+            "suspended_sediment": 0.813,
+            "cdom": 0.7
         },
         "waves": {
                "enabled": true,

@@ -50,7 +50,9 @@
           },
           "weather": {
             "max_density": 0.731,
-            "uniform": true
+            "uniform": false,
+            "max_density_height": 72,
+            "zero_density_height": 145
           }
         },
         "media_coefficients": {
@@ -65,10 +67,10 @@
           },
            "henyey_greenstein_g": {
         "air": {
-          "henyey_greenstein_g": 0.61
+          "henyey_greenstein_g": 0.41
         },
         "water":{
-           "henyey_greenstein_g": 0.3
+           "henyey_greenstein_g": 0.6
         }
       }
         }

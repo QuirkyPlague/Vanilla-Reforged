@@ -5,7 +5,13 @@
         "identifier": "vrd:plains"
       },
       "distance": {
-      "water": {
+        "air": {
+          "fog_start": 0.889,
+          "fog_end": 1.0,
+          "fog_color": "#ABD2FF",
+          "render_distance_type": "render"
+        },
+         "water": {
         "fog_start": 0.0,
         "fog_end": 60.0,
         "fog_color": "#1B9ED8",
@@ -22,15 +28,28 @@
           "mid_percent": 0.6,
           "max_seconds": 12
         }
-      }
-    },
+      },
+        "weather": {
+          "fog_start": 0.749,
+          "fog_end": 1.0,
+          "fog_color": "#303030",
+          "render_distance_type": "render"
+        }
+      },
     "volumetric": {
       "density": {
         "air": {
           "max_density": 0.0513,
+          "uniform": false,
           "zero_density_height": 96.0,
           "max_density_height": 63.0
-        }
+        },
+        "weather":{
+            "max_density": 0.381,
+            "uniform": false,
+            "zero_density_height": 96.0,
+            "max_density_height": 63.0
+          }
       },
       "media_coefficients": {
         "air": {
@@ -43,7 +62,7 @@
           "henyey_greenstein_g": 0.65
         },
         "water":{
-           "henyey_greenstein_g": 0.55
+           "henyey_greenstein_g": 0.63
         }
       }
     }

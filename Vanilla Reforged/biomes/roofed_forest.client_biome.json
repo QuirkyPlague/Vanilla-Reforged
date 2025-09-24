@@ -12,7 +12,10 @@
         "surface_color": "#3B6CD1"
       },
       "minecraft:sky_color": {
-                "sky_color": "#606060"
+                "sky_color": "#293b85"
+            },
+            "minecraft:atmosphere_identifier": {
+              "atmosphere_identifier": "vrd:dark_forest"
             }
     }
   }

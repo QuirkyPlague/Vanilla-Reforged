@@ -46,7 +46,9 @@
         },
         "weather": {
           "max_density": 0.621,
-          "uniform": true
+          "zero_density_height": 170,
+          "max_density_height": 91,
+          "uniform": false
         },
         "water": {
           "max_density": 1.0,

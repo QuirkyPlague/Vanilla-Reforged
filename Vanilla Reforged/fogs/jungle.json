@@ -39,7 +39,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.2175,
+          "max_density": 0.101,
           "zero_density_height": 96,
           "max_density_height":67,
           "uniform": false
@@ -49,8 +49,10 @@
           "uniform": true
         },
         "weather": {
-          "max_density": 0.361,
-          "uniform": true
+          "max_density": 0.761,
+          "zero_density_height": 96,
+          "max_density_height":67,
+          "uniform": false
         }
       },
       "media_coefficients": {
@@ -66,10 +68,10 @@
  },
       "henyey_greenstein_g": {
         "air": {
-          "henyey_greenstein_g": 0.41
+          "henyey_greenstein_g": 0.63
         },
         "water":{
-           "henyey_greenstein_g": 0.23
+           "henyey_greenstein_g": 0.63
         }
       }
     }

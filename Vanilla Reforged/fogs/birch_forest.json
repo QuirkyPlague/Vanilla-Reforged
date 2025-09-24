@@ -1,5 +1,5 @@
 {
-    "format_version": "1.21.0",
+    "format_version": "1.21.90",
     "minecraft:fog_settings": {
       "description": {
         "identifier": "vrd:birch_forest"
@@ -39,7 +39,7 @@
       "volumetric": {
         "density": {
           "air": {
-            "max_density": 0.165,
+            "max_density": 0.105,
             "uniform": false,
             "max_density_height": 82,
             "zero_density_height": 130
@@ -62,8 +62,15 @@
             "scattering": [0.01, 0.06, 0.03],
             "absorption": [0.015, 0.00, 0.005]
           }
-       
+         },
+        "henyey_greenstein_g": {
+        "air": {
+          "henyey_greenstein_g": 0.64
+        },
+        "water":{
+           "henyey_greenstein_g": 0.6
         }
       }
     }
   }
+}

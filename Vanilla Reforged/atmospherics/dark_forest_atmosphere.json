@@ -2,7 +2,7 @@
     "format_version": "1.21.40",
     "minecraft:atmosphere_settings": {
         "description": {
-            "identifier": "vrd:atmospherics"
+            "identifier": "vrd:dark_forest"
         },
       "sky_zenith_color": {
       "0.000000": [108, 142,255],
@@ -51,7 +51,7 @@
       "0.690000": 3,
       "0.740000": 0.85,
       "0.790000": 0.85,
-      "0.825000": 0.965,
+      "0.825000": 0.365,
       "0.950000": 0.45
     },
     "moon_mie_strength": {

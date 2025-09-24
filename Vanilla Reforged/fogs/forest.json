@@ -6,7 +6,7 @@
       },
       "distance": {
         "air": {
-          "fog_start": 0.789,
+          "fog_start": 0.889,
           "fog_end": 1.0,
           "fog_color": "#ABD2FF",
           "render_distance_type": "render"
@@ -30,7 +30,7 @@
         }
       },
         "weather": {
-          "fog_start": 0.99,
+          "fog_start": 0.749,
           "fog_end": 1.0,
           "fog_color": "#303030",
           "render_distance_type": "render"
@@ -49,8 +49,10 @@
             "uniform": true
           },
           "weather":{
-            "max_density": 0.281,
-            "uniform": true
+            "max_density": 0.581,
+             "uniform": false,
+            "max_density_height":84,
+            "zero_density_height": 195
           }
         },
         "media_coefficients": {
